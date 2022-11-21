@@ -1,2 +1,2 @@
 # Password-generator
-it generates password
+It generates random and secure passwords
